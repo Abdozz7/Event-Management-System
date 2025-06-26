@@ -1,0 +1,1 @@
+Developed in C++ with Qt GUI, this platform uses OOP architecture and SQLite3 for data persistence. Organizers create/manage events while participants register with waiting list support. Features include role-based access, input validation, and efficient data handling via database transactions.
