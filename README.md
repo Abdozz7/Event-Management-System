@@ -62,7 +62,3 @@ A C++-based virtual event management system designed to streamline the organizat
 
 Special thanks to Dr. Shaymaa and everyone who supported us during this project.
 
----
-
-> “Behind every powerful system is a simple interface that brings it to life.”
-
